@@ -1,0 +1,7 @@
+url("http://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/171212_global_forecast_0.jpg")center no-repeat;
+	-webkit-background-size:cover;
+	flex;
+	flex-direction:column;
+	url("http://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/171212_global_forecast_0.jpg")center no-repeat;
+	-webkit-background-size:cover;
+	<h1>Мой проект посвящен созданию интерактивной карты по спорным территориям планеты</h1>   
